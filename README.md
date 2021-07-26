@@ -1,5 +1,5 @@
 # 
-What is Class Imbalanec?
+What is Class Imbalance?
 -->A scenario wherein the distribution of samples per class in the available dataset is not equal (or nearly equal in percentage).
 In other words, all classes are not equally represented in the dataset.
 
